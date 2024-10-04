@@ -1,0 +1,9 @@
+C:\Users\veeay\RiderProjects\LCVModding\LessPopups\bin\Debug\netstandard2.1\Vee.LessPopups.deps.json
+C:\Users\veeay\RiderProjects\LCVModding\LessPopups\bin\Debug\netstandard2.1\Vee.LessPopups.dll
+C:\Users\veeay\RiderProjects\LCVModding\LessPopups\obj\Debug\netstandard2.1\LessPopups.csproj.AssemblyReference.cache
+C:\Users\veeay\RiderProjects\LCVModding\LessPopups\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\veeay\RiderProjects\LCVModding\LessPopups\obj\Debug\netstandard2.1\LessPopups.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veeay\RiderProjects\LCVModding\LessPopups\obj\Debug\netstandard2.1\LessPopups.AssemblyInfoInputs.cache
+C:\Users\veeay\RiderProjects\LCVModding\LessPopups\obj\Debug\netstandard2.1\LessPopups.AssemblyInfo.cs
+C:\Users\veeay\RiderProjects\LCVModding\LessPopups\obj\Debug\netstandard2.1\LessPopups.csproj.CoreCompileInputs.cache
+C:\Users\veeay\RiderProjects\LCVModding\LessPopups\obj\Debug\netstandard2.1\Vee.LessPopups.dll
